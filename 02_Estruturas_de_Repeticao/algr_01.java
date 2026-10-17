@@ -6,7 +6,7 @@ ler qual a operação aritmética escolhida.
 3 - retornar a multiplicação de dois números;
 4 - retornar o quociente inteiro de uma divisão;
 Deve-se permitir que o usuário tenha a opção de digitar novos valores ou encerrar a execução do
-algortimo/programa. */
+algortimo/programa.*/
 
 import java.util.Scanner;
 
