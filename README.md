@@ -10,14 +10,12 @@ Conjunto de exercícios desenvolvidos em Java para praticar estruturas de decis�
 ### 02 - Estruturas de Repetição
 Conjunto de exercícios desenvolvidos em Java para praticar estruturas de repetição.
 
-<<<<<<< HEAD
 ### 03 - Mosaico do Castelo
 Atividade desenvolvida em Java.
 
 ### 04 - Vetores
 Conjunto de exercícios desenvolvidos em Java para praticar Vetores.
 
-=======
 ### 03 - Vetores ( Arrays ) 
 Conjunto de exercícios desenvolvidos em Java para praticar o uso de vetores.
->>>>>>> 0d5409a5cafe229572e1a4022a8074c9a1fbeba4
+
