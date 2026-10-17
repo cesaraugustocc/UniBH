@@ -1,3 +1,15 @@
+/* Escreva um algoritmo, para um programa que leia um conjunto os seguintes dados de uma turma de amigos: 
+o nome, altura e o sexo (código = 1 se for masculino e 2 se for feminino) de cada um. 
+E sabendo que são 15 amigos calcule e imprima: 
+
+O valor e o nome da maior e a menor altura da turma;
+
+A média de altura das mulheres e dos homens;
+
+A média de altura da turma. 
+
+Observação. Suponha que não exista dois ou mais pessoas com a mesma altura. */
+
 import java.util.Scanner;
 
 public class algr_08 {

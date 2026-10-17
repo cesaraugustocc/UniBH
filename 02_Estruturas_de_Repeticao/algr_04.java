@@ -1,3 +1,10 @@
+/* Desenvolver um algoritmo e um programa  que leia a altura e o sexo (M ou F) de 15
+pessoas. Este programa deverá calcular e mostrar :
+a. A menor altura do grupo;
+b. A média de altura das mulheres;
+c. O número de homens;
+d. O sexo da pessoa mais alta. */
+
 import java.util.Scanner;
 
 public class algr_04 {

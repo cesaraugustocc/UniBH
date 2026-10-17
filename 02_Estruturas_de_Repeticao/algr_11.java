@@ -1,3 +1,6 @@
+// Escreva um algoritmo que dado um limite inferior e superior, calcule a soma de todos os números pares contidos nesse intervalo.
+// Observação. Os limites a serem fornecidos são números inteiros e positivos.
+
 import java.util.Scanner;
 
 public class algr_11 {

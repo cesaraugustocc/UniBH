@@ -1,3 +1,7 @@
+/* Dados o número n de alunos de uma turma de Lógica e Técnicas de programação e suas notas da primeira DAD, 
+escreva um algoritmo para determinar e imprimir a maior e a menor nota obtida por essa turma, 
+onde a nota mínima é 0 e a nota máxima é 15. */
+
 import java.util.Scanner;
 
 public class algr_09 {

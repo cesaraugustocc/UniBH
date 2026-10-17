@@ -1,3 +1,9 @@
+/* Uma grande firma deseja saber qual é o empregado mais recente e qual é o mais antigo.
+Desenvolver um algoritmo e um programa em  para ler um número indeterminado de informações
+(máximo de 300) contendo o número do empregado e o número de meses de trabalho deste
+empregado e imprimir o mais recente e o mais antigo. Obs.: A última informação contém os dois
+números iguais a zero. Não existem dois empregados admitidos no mesmo mês. */
+
 import java.util.Scanner;
 
 public class algr_03 {

@@ -1,3 +1,11 @@
+/* Escreva um algoritmo para um programa que:
+
+Dados: o número de matrícula e a nota de cada aluno de um determinado curso.
+
+Sabendo que este curso tem 100 alunos, determine e imprima as duas maiores notas, juntamente com o número de matrícula do aluno que obteve cada uma delas.
+
+Observação. Suponha que não exista dois ou mais alunos com a mesma nota. */
+
 import java.util.Scanner;
 
 public class algr_12 {

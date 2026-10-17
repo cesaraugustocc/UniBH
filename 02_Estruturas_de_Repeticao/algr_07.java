@@ -1,3 +1,6 @@
+/* Escreva um algoritmo para calcular a média de um conjunto de 75 valores inteiros e positivos, fornecidos pelo usuário. 
+Exiba no final do programa além da média, a quantidade de  números lidos. */
+
 import java.util.Scanner;
 
 public class algr_07 {
