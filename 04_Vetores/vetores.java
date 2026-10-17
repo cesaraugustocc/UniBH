@@ -1,3 +1,5 @@
+// Algoritmo geral que reúne os 12 algrotimos anteriores e os inicia por meio de um switch case e métodos
+
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
