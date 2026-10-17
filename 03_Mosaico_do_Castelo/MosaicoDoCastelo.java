@@ -1,4 +1,4 @@
-/*Você foi contratado como arquiteto real para desenhar a fachada de um novo mosaico de pedra. 
+/* Você foi contratado como arquiteto real para desenhar a fachada de um novo mosaico de pedra. 
 O rei exige que a borda do mosaico seja feita de blocos sólidos (#), mas o interior deve ser mantido totalmente limpo com espaços vazios (.). 
 Para garantir a estrutura, os quatro cantos exatos do mosaico devem usar o caractere especial de reforço (+). 
 Sua tarefa é escrever um programa que leia a dimensão da estrutura e construa o mosaico formatado. */
