@@ -1,5 +1,5 @@
 // Um restaurante da cidade construiu um cardápio eletrônico e atribuiu um número para cada prato disponível. 
-// Construa um algoritmo que apresente o cardápio de opções na tela (considere 4 pratos numerados de 1 a 4), leia a escolha do usuário e escreva qual a opção escolhida.
+// Construa um algoritmo que apresente o cardápio de opções na tela ( considere 4 pratos numerados de 1 a 4 ), leia a escolha do usuário e escreva qual a opção escolhida.
 
 import java.util.Scanner;
 
