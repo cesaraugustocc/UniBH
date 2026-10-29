@@ -15,3 +15,6 @@ Exercício utilizando estruturas de repetição.
 
 ### 04 - Vetores
 Conjunto de exercícios desenvolvidos em Java para praticar Vetores.
+
+### 05 - Matrizes
+Conjunto de exercícios desenvolvidos em Java para praticar Matrizes.
